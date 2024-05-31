@@ -1,5 +1,5 @@
 # 💫 About Me:
-My interests range from technology to information security. I'm a cyber security student at Curtin University and eLearnSecurity Junior Penetration Tester (eJPT) certified. I enjoy sharing my security knowledge and learning from the rest of the security community.<br><br>📫 How to reach me » passc0de@duck.com<br><br>📄 Know about me » [pratyay.io](https://pratyay.io)
+My interests range from technology to information security. I'm a cyber security student at Curtin University and eLearnSecurity Junior Penetration Tester (eJPT) certified. I enjoy sharing my security knowledge and learning from the rest of the security community.<br><br>📫 How to reach me » passc0de@duck.com<br><br>📄 My website » [pratyay.io](https://pratyay.io)
 
 
 ## 🌐 Socials:
