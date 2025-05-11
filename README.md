@@ -1,7 +1,3 @@
-# 💫 About Me:
-My interests range from technology to information security. I'm a cyber security student at Curtin University and eLearnSecurity Junior Penetration Tester (eJPT) certified. I enjoy sharing my security knowledge and learning from the rest of the security community.<br><br>📫 How to reach me » passc0de@duck.com<br><br>📄 My website » [pratyay.io](https://pratyay.io)
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pratyaymilind) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratyay-milind) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/passc0de) 
 
